@@ -27,3 +27,11 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria
+
+- :telescope: I’m a software engineering full stack developer, working on building good web and mobile applications.
+
+- :seedling: Exploring other fields in tech, including networking,and hardwares.
+
+- :zap: In my free time, I learn and think of problem to solve.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](omejeemmanuel1/)
