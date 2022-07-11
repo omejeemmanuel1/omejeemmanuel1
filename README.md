@@ -55,4 +55,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwindcss" **alt="Tailwindcss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" **alt="Vim" width="40" height="40"/>&nbsp;
 </div>
+---
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omejeemmanuel1&theme=radical&hide_border=true&border=2B68DD&background=000080&stroke=14607A&ring=85CFDD&fire=DDDDDD&sideNums=38B1DD&sideLabels=DDDDDD&currStreakLabel=DDDDDD&dates=DDDDDD&currStreakNum=38B1DD)](https://git.io/streak-stats)
