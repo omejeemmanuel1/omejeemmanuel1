@@ -61,7 +61,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-<div align="right">
+<div align="left">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omejeemmanuel1&theme=algolia)](https://git.io/streak-stats)
 
