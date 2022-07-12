@@ -56,12 +56,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" **alt="Vim" width="40" height="40"/>&nbsp;
 </div>
 
-<div align="center">
+
 ---
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omejeemmanuel1&theme=algolia&hide_border=true)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omejeemmanuel1&show_icons=true&theme=algolia)
+
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omejeemmanuel1&layout=compact&theme=algolia&align="center")](https://github.com/omejeemmanuel1/github-readme-stats)
 
