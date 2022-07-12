@@ -32,7 +32,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring other fields in tech, including networking,and hardwares.
 
-- :zap: In my free time, I learn and think of problem to solve.
+- :zap: In my free time, I learn and think of problems to solve.
 
 ---
 
