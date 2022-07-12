@@ -59,4 +59,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omejeemmanuel1&theme=navy-gear&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omejeemmanuel1)](https://github.com/omejeemmanuel1/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omejeemmanuel1&layout=compact)](https://github.com/omejeemmanuel1/github-readme-stats)
