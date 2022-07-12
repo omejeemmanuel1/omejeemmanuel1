@@ -61,16 +61,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-<div align="justify">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omejeemmanuel1&theme=algolia)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omejeemmanuel1&layout=compact&theme=algolia&align="center")](https://github.com/omejeemmanuel1/github-readme-stats)
-
-</div>
-
-<div align="center">
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omejeemmanuel1&show_icons=true&theme=algolia)
 
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omejeemmanuel1&layout=compact&theme=algolia&align="center")](https://github.com/omejeemmanuel1/github-readme-stats)
+
+
+
