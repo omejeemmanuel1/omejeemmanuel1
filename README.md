@@ -28,9 +28,9 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria
 
-- :telescope: I’m a frontend software engineering (MERN STACK) and web 3 developer, working on building good web and mobile applications.
+- :telescope: FullStack software engineer, frontend, backend, MERN, PERN, Python.
 
-- :seedling: Exploring other fields in tech, including networking,and hardwares.
+- :seedling: Exploring other fields in tech, including AI,Blockchain and Web3.
 
 - :zap: In my free time, I learn and think of problems to solve.
 
